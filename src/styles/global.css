@@ -1,0 +1,7 @@
+/* Global styles for headings */
+
+h1 {
+    color: blue; 
+    font-size: 28px;
+    font-family: 'Arial', sans-serif;
+}
